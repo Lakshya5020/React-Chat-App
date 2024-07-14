@@ -2,16 +2,16 @@
     flex: 1;
 
     .user {
-        padding: 30px 20px;
+        padding: 10px 2px;
         display: flex;
         align-items: center;
-        gap: 15px;
+        gap: 7px;
         flex-direction: column;
         border-bottom: 1px solid #dddddd35;
 
         img {
-            width: 100px;
-            height: 100px;
+            width: 70px;
+            height: 70px;
             border-radius: 50%;
             object-fit: cover;
         }
@@ -21,7 +21,7 @@
         padding: 20px;
         display: flex;
         flex-direction: column;
-        gap: 25px;
+        gap: 10px;
 
         .option {
             .title {
